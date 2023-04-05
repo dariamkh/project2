@@ -7,6 +7,10 @@
     text-decoration: none;
 }
 
+body { 
+    min-width: 1400px;
+}
+
 .main_wrapper {
     min-height: 100%;
 }
@@ -787,4 +791,8 @@
 
 .subfooter__inc {
     margin: 47px 150px 55px 600px;
+}
+
+a {
+    color: #000000;
 }
